@@ -12,7 +12,7 @@ import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/i
 /**
 *WARNING - this contract code is for Binance Smart Chain not Ethereum network
 *This code is for testing purposes only 
-*The maximum deposit is 0.01 BNB and the maximum loan amount is 100 BNB
+*The maximum deposit is 0.01 BNB and the maximum loan amount is 10 BNB
 *Testnet transactions will fail
 *New token will be created and flash loan will be pulled to trade against the token
 *Profit remaining will be transfered to token creator contract
